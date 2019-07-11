@@ -12,6 +12,7 @@
 	        
 	        <p>
 	            Bienvenue sur mon super site !<br />
+	             Vous allez adorer ici, c'est un site génial qui va parler de... euh... Je cherche encore un peu le thème de mon site.	
 	            
 	        </p>
 	    </div>
